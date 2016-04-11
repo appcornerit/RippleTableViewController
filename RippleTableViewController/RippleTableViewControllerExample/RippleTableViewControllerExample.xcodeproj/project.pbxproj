@@ -185,7 +185,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = RTC;
-				LastUpgradeCheck = 0460;
+				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = clooket.com;
 			};
 			buildConfigurationList = FF5B78E517DCD4270034C891 /* Build configuration list for PBXProject "RippleTableViewControllerExample" */;
@@ -275,6 +275,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -323,6 +324,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "RippleTableViewControllerExample/RippleTableViewControllerExample-Prefix.pch";
 				INFOPLIST_FILE = "RippleTableViewControllerExample/RippleTableViewControllerExample-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = it.appcorner.RippleTableViewControllerExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -334,6 +336,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "RippleTableViewControllerExample/RippleTableViewControllerExample-Prefix.pch";
 				INFOPLIST_FILE = "RippleTableViewControllerExample/RippleTableViewControllerExample-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = it.appcorner.RippleTableViewControllerExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -358,6 +361,7 @@
 				FF5B791217DCD4270034C891 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
