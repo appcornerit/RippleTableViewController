@@ -10,4 +10,4 @@ You can find a ripple effect applied on a button in [AppCorner Social](https://g
 ![Alt text](/preview.png "Preview") 
 ![Alt text](/preview_ios7.png "Preview iOS 7") 
 
-##No longer maintained but still working.
+## No longer maintained but still working.
